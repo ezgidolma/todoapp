@@ -3,6 +3,8 @@ Technologies used:
 - Spring Boot
 - Spring Data Jpa
 - Spring MVC
+- Spring Security
+- JSP
 - Mysql
 - Docker
 
